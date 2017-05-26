@@ -1,0 +1,3 @@
+org/pratap/sb/demo/jpa/Application.class
+org/pratap/sb/demo/jpa/repository/CustomerRepository.class
+org/pratap/sb/demo/jpa/model/Customer.class

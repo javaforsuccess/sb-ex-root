@@ -9,4 +9,9 @@
           <module>hello-world</module>
 	  <module>spring-boot-jpa-oracle-example</module>
         </modules>
+	<properties>
+ 	  <sonar.projectKey>javaforsuccess_sb-ex-root</sonar.projectKey>
+  	  <sonar.organization>javaforsuccess</sonar.organization>
+  	  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+	</properties>
 </project>
